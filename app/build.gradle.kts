@@ -67,5 +67,12 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
-    
+
+    implementation(libs.retrofit)                               //implementation("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation(libs.converter.gson)                         //implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+
+    implementation(libs.androidx.lifecycle.viewmodel.compose)   //implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.5")
+
+    implementation(libs.androidx.navigation.compose)            //implementation("androidx.navigation:navigation-compose:2.8.0")
+
 }
