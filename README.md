@@ -3,7 +3,7 @@
 in Jetpack Compose using Kotlin, retrofit and API (Free OpenWeatherMap).  
 
 Built in 3 parts: 
-* part 1: prerequites
+* part 1: prerequisites
 * part 2: retrofit
 * part 3: design UI in Jetpack Compose
 
