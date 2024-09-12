@@ -1,6 +1,6 @@
 ## Simple Weather App
 
-in Jetpack Compose using Kotlin, retrofit and API (Free OpenWeatherMap).  
+in Jetpack Compose using Kotlin, retrofit and API (Free openweathermap.org).  
 
 Built in 3 parts: 
 * part 1: prerequisites
